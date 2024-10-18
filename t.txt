@@ -1,0 +1,12 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 4691-9EEB
+
+ Directory of D:\gh
+
+15/04/2024  17:47    <DIR>          .
+15/04/2024  17:47    <DIR>          ..
+18/09/2023  18:14            44,032 APPRAISAL FORM.doc
+18/09/2023  10:52             2,021 image001.jpg
+15/04/2024  17:47                 0 t.txt
+               3 File(s)         46,053 bytes
+               2 Dir(s)  230,960,279,552 bytes free
