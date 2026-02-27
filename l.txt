@@ -1,14 +1,4 @@
-Timesheet login:
-https://timesheet.psplhyd.com/
-h1258
-hyd!23
 
-Email login:
-https://mail.ionos.com/
-shashank-thakur@priyanet.com 
-Hyd@2023!
-
-Today's Work: Tested CORE-915- Post Management Fees Listing in CINC and CORE-5048 -Pending ACC Request
 
 42 ok
 115 ok
@@ -20,6 +10,7 @@ Today's Work: Tested CORE-915- Post Management Fees Listing in CINC and CORE-504
 
 106 fail no data
 116 ok
+
 
 
 
